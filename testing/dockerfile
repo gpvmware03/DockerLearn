@@ -1,0 +1,6 @@
+# creating docker file
+FROM alpine
+
+#run command on startup
+
+CMD [ "sh" ]
